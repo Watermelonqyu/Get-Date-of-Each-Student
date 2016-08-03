@@ -1,0 +1,35 @@
+lesson0_Introduction
+lesson34_Social Media
+lesson32_Online Research
+lesson4_Prefixes and Suffixes
+lesson5_Punctuation
+lesson6_Context Clues
+lesson8_Multiple Meaning Words
+lesson9_Pronouns
+lesson10_Non-Literal Language		
+lesson1_Text Signals
+lesson11_Review
+lesson16_Evaluating Understanding
+lesson20_Problem and Solution Texts
+lesson21_Cause and Effect Texts
+lesson23_Compare and Contrast Texts
+lesson25_Procedural Texts
+lesson17_Evaluating: Persuasive
+lesson13_Evaluating: Narrative
+lesson2_Predicting Purpose		
+lesson3_Hybrid Texts
+lesson18_Review
+lesson27_Bridging: Narrative
+lesson15_Elaborating: Narrative
+lesson28_Elaborating: Informative
+lesson29_Elaborating: Persuasive
+lesson30_Documents
+lesson31_Applications
+lesson33_Email
+lesson7_Acquiring New Words
+lesson12_Using Key Information
+lesson14_Bridge Building
+lesson19_Statement and Explanation
+lesson22_Description and Spatial
+lesson24_Time Order
+lesson26_Review

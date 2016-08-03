@@ -1,0 +1,16 @@
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\GetDate.exe.config
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\GetDate.exe
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\GetDate.pdb
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\CSALMongo.dll
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\MongoDB.Bson.dll
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\MongoDB.Driver.dll
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\CSALMongo.pdb
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\CSALMongo.xml
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\MongoDB.Bson.xml
+D:\CSAL\Tools\GetDate\GetDate\GetDate\bin\Debug\MongoDB.Driver.xml
+D:\CSAL\Tools\GetDate\GetDate\GetDate\obj\Debug\GetDate.csprojResolveAssemblyReference.cache
+D:\CSAL\Tools\GetDate\GetDate\GetDate\obj\Debug\GetDate.Form1.resources
+D:\CSAL\Tools\GetDate\GetDate\GetDate\obj\Debug\GetDate.Properties.Resources.resources
+D:\CSAL\Tools\GetDate\GetDate\GetDate\obj\Debug\GetDate.csproj.GenerateResource.Cache
+D:\CSAL\Tools\GetDate\GetDate\GetDate\obj\Debug\GetDate.exe
+D:\CSAL\Tools\GetDate\GetDate\GetDate\obj\Debug\GetDate.pdb
